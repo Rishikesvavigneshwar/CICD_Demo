@@ -26,7 +26,6 @@ D:\Asp\Jenkins\CiCD_pipeline_Demo\CiCD_pipeline_Demo\obj\Debug\net8.0\staticweba
 D:\Asp\Jenkins\CiCD_pipeline_Demo\CiCD_pipeline_Demo\obj\Debug\net8.0\staticwebassets.build.json.cache
 D:\Asp\Jenkins\CiCD_pipeline_Demo\CiCD_pipeline_Demo\obj\Debug\net8.0\staticwebassets.development.json
 D:\Asp\Jenkins\CiCD_pipeline_Demo\CiCD_pipeline_Demo\obj\Debug\net8.0\staticwebassets.build.endpoints.json
-D:\Asp\Jenkins\CiCD_pipeline_Demo\CiCD_pipeline_Demo\obj\Debug\net8.0\staticwebassets.upToDateCheck.txt
 D:\Asp\Jenkins\CiCD_pipeline_Demo\CiCD_pipeline_Demo\obj\Debug\net8.0\CiCD_pipeline_Demo.dll
 D:\Asp\Jenkins\CiCD_pipeline_Demo\CiCD_pipeline_Demo\obj\Debug\net8.0\refint\CiCD_pipeline_Demo.dll
 D:\Asp\Jenkins\CiCD_pipeline_Demo\CiCD_pipeline_Demo\obj\Debug\net8.0\CiCD_pipeline_Demo.pdb

@@ -1,0 +1,1 @@
+D:\Asp\Jenkins\CiCD_pipeline_Demo\.sonarqube\out\1

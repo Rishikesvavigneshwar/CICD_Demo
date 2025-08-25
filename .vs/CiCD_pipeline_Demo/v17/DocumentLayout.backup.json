@@ -3,12 +3,24 @@
   "WorkspaceRootPath": "D:\\Asp\\Jenkins\\CiCD_pipeline_Demo\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{7231AE2C-DB50-4E2A-8C8B-FC95548F14DE}|Test_CICD_Demo\\Test_CICD_Demo.csproj|d:\\asp\\jenkins\\cicd_pipeline_demo\\test_cicd_demo\\unittest1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{7231AE2C-DB50-4E2A-8C8B-FC95548F14DE}|Test_CICD_Demo\\Test_CICD_Demo.csproj|solutionrelative:test_cicd_demo\\unittest1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{89DFD510-07F8-4FC8-A64F-927317CC8306}|CiCD_pipeline_Demo\\CiCD_pipeline_Demo.csproj|d:\\asp\\jenkins\\cicd_pipeline_demo\\cicd_pipeline_demo\\pages\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{89DFD510-07F8-4FC8-A64F-927317CC8306}|CiCD_pipeline_Demo\\CiCD_pipeline_Demo.csproj|solutionrelative:cicd_pipeline_demo\\pages\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{89DFD510-07F8-4FC8-A64F-927317CC8306}|CiCD_pipeline_Demo\\CiCD_pipeline_Demo.csproj|d:\\asp\\jenkins\\cicd_pipeline_demo\\cicd_pipeline_demo\\pages\\index.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{89DFD510-07F8-4FC8-A64F-927317CC8306}|CiCD_pipeline_Demo\\CiCD_pipeline_Demo.csproj|solutionrelative:cicd_pipeline_demo\\pages\\index.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{89DFD510-07F8-4FC8-A64F-927317CC8306}|CiCD_pipeline_Demo\\CiCD_pipeline_Demo.csproj|d:\\asp\\jenkins\\cicd_pipeline_demo\\cicd_pipeline_demo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{89DFD510-07F8-4FC8-A64F-927317CC8306}|CiCD_pipeline_Demo\\CiCD_pipeline_Demo.csproj|solutionrelative:cicd_pipeline_demo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{89DFD510-07F8-4FC8-A64F-927317CC8306}|CiCD_pipeline_Demo\\CiCD_pipeline_Demo.csproj|d:\\asp\\jenkins\\cicd_pipeline_demo\\cicd_pipeline_demo\\dockerfile||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{89DFD510-07F8-4FC8-A64F-927317CC8306}|CiCD_pipeline_Demo\\CiCD_pipeline_Demo.csproj|solutionrelative:cicd_pipeline_demo\\dockerfile||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7231AE2C-DB50-4E2A-8C8B-FC95548F14DE}|Test_CICD_Demo\\Test_CICD_Demo.csproj|d:\\asp\\jenkins\\cicd_pipeline_demo\\test_cicd_demo\\unittest1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7231AE2C-DB50-4E2A-8C8B-FC95548F14DE}|Test_CICD_Demo\\Test_CICD_Demo.csproj|solutionrelative:test_cicd_demo\\unittest1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -18,8 +30,47 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 3,
+          "SelectedChildIndex": 7,
           "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Index.cshtml.cs",
+              "DocumentMoniker": "D:\\Asp\\Jenkins\\CiCD_pipeline_Demo\\CiCD_pipeline_Demo\\Pages\\Index.cshtml.cs",
+              "RelativeDocumentMoniker": "CiCD_pipeline_Demo\\Pages\\Index.cshtml.cs",
+              "ToolTip": "D:\\Asp\\Jenkins\\CiCD_pipeline_Demo\\CiCD_pipeline_Demo\\Pages\\Index.cshtml.cs",
+              "RelativeToolTip": "CiCD_pipeline_Demo\\Pages\\Index.cshtml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-25T08:44:32.549Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Asp\\Jenkins\\CiCD_pipeline_Demo\\CiCD_pipeline_Demo\\Program.cs",
+              "RelativeDocumentMoniker": "CiCD_pipeline_Demo\\Program.cs",
+              "ToolTip": "D:\\Asp\\Jenkins\\CiCD_pipeline_Demo\\CiCD_pipeline_Demo\\Program.cs",
+              "RelativeToolTip": "CiCD_pipeline_Demo\\Program.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAADwvxgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-25T08:36:26.695Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Dockerfile",
+              "DocumentMoniker": "D:\\Asp\\Jenkins\\CiCD_pipeline_Demo\\CiCD_pipeline_Demo\\Dockerfile",
+              "RelativeDocumentMoniker": "CiCD_pipeline_Demo\\Dockerfile",
+              "ToolTip": "D:\\Asp\\Jenkins\\CiCD_pipeline_Demo\\CiCD_pipeline_Demo\\Dockerfile",
+              "RelativeToolTip": "CiCD_pipeline_Demo\\Dockerfile",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAALAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2025-08-25T06:31:42.915Z",
+              "EditorCaption": ""
+            },
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
@@ -34,26 +85,26 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 4,
               "Title": "UnitTest1.cs",
               "DocumentMoniker": "D:\\Asp\\Jenkins\\CiCD_pipeline_Demo\\Test_CICD_Demo\\UnitTest1.cs",
               "RelativeDocumentMoniker": "Test_CICD_Demo\\UnitTest1.cs",
               "ToolTip": "D:\\Asp\\Jenkins\\CiCD_pipeline_Demo\\Test_CICD_Demo\\UnitTest1.cs",
               "RelativeToolTip": "Test_CICD_Demo\\UnitTest1.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAJAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-08-25T05:20:41.933Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
               "Title": "Index.cshtml",
               "DocumentMoniker": "D:\\Asp\\Jenkins\\CiCD_pipeline_Demo\\CiCD_pipeline_Demo\\Pages\\Index.cshtml",
               "RelativeDocumentMoniker": "CiCD_pipeline_Demo\\Pages\\Index.cshtml",
               "ToolTip": "D:\\Asp\\Jenkins\\CiCD_pipeline_Demo\\CiCD_pipeline_Demo\\Pages\\Index.cshtml",
               "RelativeToolTip": "CiCD_pipeline_Demo\\Pages\\Index.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2025-08-25T04:32:22.221Z",
               "EditorCaption": ""

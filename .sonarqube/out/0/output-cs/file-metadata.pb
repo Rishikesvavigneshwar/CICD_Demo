@@ -1,0 +1,9 @@
+x
+mD:\Asp\Jenkins\CiCD_pipeline_Demo\CiCD_pipeline_Demo\obj\Debug\net8.0\CiCD_pipeline_Demo.RazorAssemblyInfo.csutf-8s
+hD:\Asp\Jenkins\CiCD_pipeline_Demo\CiCD_pipeline_Demo\obj\Debug\net8.0\CiCD_pipeline_Demo.AssemblyInfo.csutf-8
+tD:\Asp\Jenkins\CiCD_pipeline_Demo\CiCD_pipeline_Demo\obj\Debug\net8.0\.NETCoreApp,Version=v8.0.AssemblyAttributes.csutf-8u
+jD:\Asp\Jenkins\CiCD_pipeline_Demo\CiCD_pipeline_Demo\obj\Debug\net8.0\CiCD_pipeline_Demo.GlobalUsings.g.csutf-8H
+?D:\Asp\Jenkins\CiCD_pipeline_Demo\CiCD_pipeline_Demo\Program.csutf-8U
+LD:\Asp\Jenkins\CiCD_pipeline_Demo\CiCD_pipeline_Demo\Pages\Privacy.cshtml.csutf-8S
+JD:\Asp\Jenkins\CiCD_pipeline_Demo\CiCD_pipeline_Demo\Pages\Index.cshtml.csutf-8S
+JD:\Asp\Jenkins\CiCD_pipeline_Demo\CiCD_pipeline_Demo\Pages\Error.cshtml.csutf-8

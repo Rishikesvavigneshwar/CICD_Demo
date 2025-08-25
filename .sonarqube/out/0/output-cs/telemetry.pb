@@ -1,0 +1,1 @@
+dRND:\Asp\Jenkins\CiCD_pipeline_Demo\CiCD_pipeline_Demo\CiCD_pipeline_Demo.csproj¢net8.0òCSharp12
